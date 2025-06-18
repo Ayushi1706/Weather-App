@@ -4,11 +4,11 @@ A responsive and user-friendly web application that provides real-time weather u
 
 ## 🔍 Features
 
-- 🔎 **Search Functionality**: Enter any city to get current weather details.
-- 🌡️ **Temperature Unit Toggle**: Switch between Celsius and Fahrenheit.
-- ⏱️ **Real-time Weather Data**: Fetches data from OpenWeatherMap API.
-- 🕒 **Hourly & Daily Forecasts**: Get weather predictions for the next few hours and days.
-- 📱 **Responsive Design**: Works smoothly on mobile, tablet, and desktop devices.
+- 🔓 **Grant Access UI**: Request user's geolocation to show weather for their current location.
+- 🌍 **Weather Search Form**: Allows users to search for weather in any city worldwide.
+- 🌡️ **Real-time Weather Info**: Displays temperature, weather description, wind speed, humidity, and cloudiness.
+- 🎨 **User Interface**: Clean and modern layout with interactive UI components for better experience.
+
 
 ## ⚙️ Technologies Used
 
