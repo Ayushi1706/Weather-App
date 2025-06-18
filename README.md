@@ -19,4 +19,4 @@ A responsive and user-friendly web application that provides real-time weather u
 
 ## 🚀 Getting Started
 
-https://vercel.com/ayushis-projects-dbb4c6e3/weather-app
+https://weather-app-pink-phi.vercel.app/
